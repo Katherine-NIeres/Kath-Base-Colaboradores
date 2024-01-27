@@ -1,0 +1,15 @@
+#root {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  color: rgb(145, 12, 207);
+  background-color: rgb(163, 119, 184);
+
+}
+
+.text-start {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
